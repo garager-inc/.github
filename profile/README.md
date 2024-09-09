@@ -15,13 +15,14 @@ O aplicativo oferece funcionalidades distintas para dois tipos de usuários: o u
 - **Frontend:** [garager-frontend](https://github.com/garager-inc/garager-frontend)
 - **Backend:** [garager-backend](https://github.com/garager-inc/garager-backend)
 
-##Docker
+## Docker
 O projeto pode ser rodado em Docker.
 
 # Rodar frontend e backend com Docker
 ```
 yarn docker
 ```
+*Rodar comando em cada repositório, individualmente.
 
 O frontend será executado na porta **3000**.<br>
 
